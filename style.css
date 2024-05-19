@@ -1,0 +1,79 @@
+.background {
+    background-color: rgb(223, 116, 54);
+}
+
+.titleAwd {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.titleAwd:hover {
+    color: white;
+    transition-duration: .25s;
+    font-size: 135%;
+}
+
+.h1Name:hover {
+    color: white;
+    transition-duration: .25s;
+    font-size: 355%;
+}
+
+nav {
+    background-color: rgb(37, 37, 37);
+}
+
+.aTextColor {
+    color: white;
+}
+
+.aTextColor:hover {
+    color: rgb(223, 116, 54);
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.background2 {
+    background-color:#264653 ;
+    border-top: solid 15px rgb(37, 37, 37);
+    padding: 35px;
+}
+
+.pHeaders {
+    font-size: 1.5em;
+    font-weight: 700;
+    
+}
+
+.pBoxes {
+    border: solid 1px rgb(37, 37, 37);
+}
+
+.skills {
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+
+#intro {
+    font-size: 1.1em;
+}
+
+footer {
+    background-color: rgb(37, 37, 37);
+    padding: 25px;
+}
+
+.background3 {
+    background-color:#264653 ;
+}
+
+#pic {
+    padding: 15px;
+}
+
+.skillsCol:hover {
+    background-color: #2f5868;
+}
